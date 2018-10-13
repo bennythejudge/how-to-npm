@@ -1,5 +1,7 @@
 # how-to-npm
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/how-to-npm.svg)](https://www.guardrails.io)
+
 A module to teach you how to module.
 
 ## USAGE
